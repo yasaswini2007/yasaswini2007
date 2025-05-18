@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Yasaswini!
 
-<!--
-**yasaswini2007/yasaswini2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a student at *Amity University, Bangalore*  
+💻 I enjoy solving problems and exploring technology through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Languages I Know
+- 🐍 Python
+- 🌐 HTML & CSS
+- 💡 C Programming
+
+---
+
+## 🌱 Currently Learning
+- Frontend Web Development
+- Python Projects & Concepts
+- Debugging Techniques 🐞
+
+---
+
+## 💬 About Me
+- ✈ I love *traveling*
+- ⛸ I'm passionate about *skating*
+- 💃 I enjoy *dancing*
+- 🛠 I’m especially *interested in debugging* and fixing broken things in code!
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: kotha.yasaswini@s.amity.edu
+
+
